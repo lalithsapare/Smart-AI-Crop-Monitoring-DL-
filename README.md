@@ -1,4 +1,4 @@
-Smart-AI-Crop-monitoring
+Smart-AI-Crop-Monitoring
 # About the Project: 
 AI Crop Monitoring DL is a deep learning-based crop health monitoring system designed to detect crop problems from images and vegetation data.
 
